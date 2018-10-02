@@ -7,7 +7,7 @@ public class School {
         Teacher teacher3 = new Teacher("Franek", "Dolas", 84, 1970);
 
         Student student1 = new Student("Maciej", "Polak", 5, 5);
-        Student student2 = new Student("Filip", "Kaczynski", 8, 4);
+        Student student2 = new Student("Harry", "Potter", 8, 4);
         Student student3 = new Student("Frania", "Bartoszewska", 7, 3);
         Student student4 = new Student("Bartek", "Kurek", 11, 8);
 
